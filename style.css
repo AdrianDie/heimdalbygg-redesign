@@ -99,10 +99,9 @@ h1,h2,h3,h4 { line-height: 1.15; font-weight: 700; }
   gap: 32px;
 }
 .header__logo { flex-shrink: 0; }
-.logo-svg {
-  height: clamp(28px, 5vw, 38px);
+.logo-img {
+  height: clamp(36px, 6vw, 48px);
   width: auto;
-  color: var(--clr-ink);
 }
 .header__nav {
   display: flex;
@@ -544,9 +543,9 @@ h1,h2,h3,h4 { line-height: 1.15; font-weight: 700; }
   gap: 12px;
 }
 .footer__logo {
-  height: 32px;
+  height: 36px;
   width: auto;
-  color: #fff;
+  filter: invert(1);
 }
 .footer__brand p { font-size: 15px; max-width: 320px; }
 .footer__links {
