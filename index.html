@@ -51,48 +51,24 @@
 
     <!-- Hero -->
     <section class="hero">
+      <img src="assets/hero.jpg" alt="Oppusset bad levert av Heimdal Bygg" class="hero__bg" fetchpriority="high">
+      <div class="hero__overlay"></div>
       <div class="container hero__inner">
-        <div class="hero__content">
-          <h1 class="hero__title">
-            Kvalitetshåndverk<br>
-            <span class="accent">du kan stole på</span>
-          </h1>
-          <p class="hero__lead">
-            Vi er 5 dyktige håndverkere som har jobbet sammen i over 10&nbsp;år.
-            Fra bad og kjøkken til tak og fasade, vi tar totalansvaret for
-            byggeprosjektet ditt.
-          </p>
-          <div class="hero__actions">
-            <a href="#kontakt" class="btn btn--primary btn--lg">Få et uforpliktende tilbud</a>
-            <a href="#tjenester" class="btn btn--ghost btn--lg">Se våre tjenester</a>
-          </div>
+        <p class="hero__eyebrow">Trondheim · Tømrer og murer · Siden 2012</p>
+        <h1 class="hero__title">
+          Kvalitetshåndverk<br>
+          <span class="accent">du kan stole på</span>
+        </h1>
+        <p class="hero__lead">
+          Vi er 5 dyktige håndverkere som har jobbet sammen i over 10&nbsp;år.
+          Fra bad og kjøkken til tak og fasade, vi tar totalansvaret for
+          byggeprosjektet ditt.
+        </p>
+        <div class="hero__actions">
+          <a href="#kontakt" class="btn btn--primary btn--lg">Få et uforpliktende tilbud</a>
+          <a href="#tjenester" class="btn btn--ghost btn--lg">Se våre tjenester</a>
         </div>
-        <div class="hero__visual">
-          <div class="hero__showcase">
-            <div class="showcase__card showcase__card--1">
-              <div class="showcase__icon">
-                <svg viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" fill="currentColor"/></svg>
-              </div>
-              <span>Oppussing bad</span>
-            </div>
-            <div class="showcase__card showcase__card--2">
-              <div class="showcase__icon">
-                <svg viewBox="0 0 24 24"><path d="M22 11V3h-7v3H9V3H2v8h7V8h2v10h4v3h7v-8h-7v3h-2V8h2v3h7zM7 9H4V5h3v4zm10 6h3v4h-3v-4zm0-10h3v4h-3V5z" fill="currentColor"/></svg>
-              </div>
-              <span>Totalentreprise</span>
-            </div>
-            <div class="showcase__card showcase__card--3">
-              <div class="showcase__icon">
-                <svg viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 14l-5-5 1.41-1.41L12 14.17l6.59-6.59L20 9l-8 8z" fill="currentColor"/></svg>
-              </div>
-              <span>Avtalt pris og tid</span>
-            </div>
-            <div class="showcase__stat">
-              <span class="showcase__stat-num">10+</span>
-              <span class="showcase__stat-label">års erfaring</span>
-            </div>
-          </div>
-        </div>
+        <p class="hero__meta">Øvre Flatåsvei 14, 7079 Flatåsen</p>
       </div>
     </section>
 
@@ -240,19 +216,137 @@
         </div>
         <div class="galleri__grid">
           <figure class="galleri__item galleri__item--wide">
-            <img src="assets/galleri/bad-speil.jpg" alt="Moderne bad med runde LED-speil og dobbel vask" loading="lazy">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/bad-speil.jpg" alt="Moderne bad med runde LED-speil og dobbel vask" loading="lazy">
+            </button>
           </figure>
           <figure class="galleri__item">
-            <img src="assets/galleri/bad-dusj.jpg" alt="Dusj med glassdør og kobberarmaturer" loading="lazy">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/bad-dusj.jpg" alt="Dusj med glassdør og kobberarmaturer" loading="lazy">
+            </button>
           </figure>
           <figure class="galleri__item">
-            <img src="assets/galleri/bad.jpg" alt="Ferdig oppusset bad" loading="lazy">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/bad.jpg" alt="Ferdig oppusset bad" loading="lazy">
+            </button>
           </figure>
           <figure class="galleri__item">
-            <img src="assets/galleri/prosjekt-1.jpg" alt="Prosjekt utført av Heimdal Bygg" loading="lazy">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-1.jpg" alt="Prosjekt utført av Heimdal Bygg" loading="lazy">
+            </button>
           </figure>
           <figure class="galleri__item">
-            <img src="assets/galleri/prosjekt-2.jpg" alt="Prosjekt utført av Heimdal Bygg" loading="lazy">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-2.jpg" alt="Prosjekt utført av Heimdal Bygg" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item galleri__item--wide galleri__item--video">
+            <button type="button" class="galleri__trigger" data-type="video">
+              <video src="assets/galleri/prosjekt-video.mp4" muted playsinline preload="metadata"></video>
+              <span class="galleri__play" aria-hidden="true">
+                <svg viewBox="0 0 24 24" width="26" height="26"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>
+              </span>
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-3.jpg" alt="Bad med innfelt dusjhjørne og rundt LED-speil" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-4.jpg" alt="Bad med frittstående badekar og rundt baklyst speil" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-5.jpg" alt="Bad med frittstående badekar ved vindu og walk-in dusj" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-7.jpg" alt="Dusj med dobbel regndusj og LED-list i taket" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-8.jpg" alt="Dusjhjørne i steinlook flis med svart armatur" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-9.jpg" alt="Badekar i hems med skråtak" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-10.jpg" alt="Innredet dusjhjørne med trebenk og terrazzoflis" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-11.jpg" alt="Løft av stålbjelke med kran på byggeplass" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-12.jpg" alt="Heimdal Bygg sin servicebil på oppdrag" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-13.jpg" alt="Nytt undertak med lekter klargjort for takstein" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-14.jpg" alt="Tetting rundt pipe på nytt undertak" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-15.jpg" alt="Ferdig fasade og pipe på enebolig" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-16.jpg" alt="Oppusset gang med synlig teglstein" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-17.jpg" alt="Glassgulv med innsyn til rommet under" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-18.jpg" alt="Tilbygg med nytt glasstak over stue" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-19.jpg" alt="Membran og gulvsluk klargjort for flislegging" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-20.jpg" alt="Membranarbeid med rør- og boksuttak klargjort" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-21.jpg" alt="Membranarbeid med rørgjennomføringer i bad" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-22.jpg" alt="Membranarbeid i bad under oppussing" loading="lazy">
+            </button>
+          </figure>
+          <figure class="galleri__item">
+            <button type="button" class="galleri__trigger">
+              <img src="assets/galleri/prosjekt-23.jpg" alt="Membranarbeid med rørinnføring klar for flis" loading="lazy">
+            </button>
           </figure>
         </div>
       </div>
@@ -359,6 +453,20 @@
       </div>
     </div>
   </footer>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox" aria-hidden="true">
+    <button type="button" class="lightbox__close" id="lightboxClose" aria-label="Lukk">
+      <svg viewBox="0 0 24 24" width="22" height="22"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+    <button type="button" class="lightbox__nav lightbox__nav--prev" id="lightboxPrev" aria-label="Forrige bilde">
+      <svg viewBox="0 0 24 24" width="26" height="26"><path d="M15 6l-6 6 6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+    <button type="button" class="lightbox__nav lightbox__nav--next" id="lightboxNext" aria-label="Neste bilde">
+      <svg viewBox="0 0 24 24" width="26" height="26"><path d="M9 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+    <div class="lightbox__stage" id="lightboxStage"></div>
+  </div>
 
   <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
