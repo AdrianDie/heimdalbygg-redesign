@@ -692,7 +692,7 @@ h1,h2,h3,h4 { line-height: 1.15; font-weight: 700; }
 }
 
 @media (max-width: 600px) {
-  .hero__bg { object-position: 38% 50%; }
+  .hero__bg { object-position: 44% 50%; }
   .hero__title { font-size: clamp(30px, 8vw, 40px); }
   .hero__actions { flex-direction: column; }
   .hero__actions .btn { width: 100%; }
